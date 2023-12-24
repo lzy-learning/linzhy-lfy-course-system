@@ -1,3 +1,9 @@
+course-system-springboot/.idea
+course-system-springboot/target
+
+course-system-vue/dist
+course-system-vue/node_modules
+
 # Compiled class file
 *.class
 
